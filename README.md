@@ -84,3 +84,10 @@ NASA/JPL planetary data archives.
 
 - NASA-AMMOS/VICAR: https://github.com/NASA-AMMOS/VICAR
 - VICAR documentation: https://nasa-ammos.github.io/VICAR-DOCS/
+
+## License
+
+This project is licensed under GPL-3.0-or-later. See `LICENSE`.
+
+This is an unofficial project. It is not endorsed by NASA, JPL, Caltech, the
+NASA-AMMOS/VICAR project, or the GIMP project.
